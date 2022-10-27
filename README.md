@@ -417,7 +417,7 @@ Ruby that will accomplish the same thing.
 Write your code in `methods.rb`. Run `learn test`, and use the tests along with
 the code in `js/index.js` to guide your work.
 
-1. Define a method `#greet_programmer` that takes no arguments. It should output
+1. Define a method `# ` that takes no arguments. It should output
    the string "Hello, programmer!" to the terminal with `#puts`.
 
 1. Define a method `#greet` that takes one argument, a name. It should output
